@@ -1,9 +1,6 @@
 # Code Through Time
 
-[![CI](https://github.com/samappl/code-through-time/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/code-through-time/actions/workflows/ci.yml)
-[![Links](https://github.com/samappl/code-through-time/actions/workflows/links.yml/badge.svg)](https://github.com/YOUR-USERNAME/code-through-time/actions/workflows/links.yml)
-
-**▶ Live site: https://samappl.github.io/code-through-time/**
+**▶ Live site: https://samappl.github.io/Code-Through-Time/**
 
 An interactive history of programming — from Ada Lovelace’s first algorithm and hand-written assembly to Rust, Mojo and coding with AI. The site itself travels through time: it starts on typewriter paper, turns into a green phosphor terminal, a DOS screen, Windows 95, glossy Web 2.0, flat Material design and finally the AI era.
 
